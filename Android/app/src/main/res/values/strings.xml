@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Casual Earnings v3</string>
+    <string name="title_home">Home</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_jobs">Jobs</string>
+    <string name="highlightView">Weekly Income:</string>
+    <string name="highlightValueView">$0.00</string>
+    <string name="welcomeView">Welcome back!</string>
+    <string name="calcView">Income Calculator</string>
+    <string name="calcBtn">Calculate</string>
+    <string name="rateHint">Enter rate here...</string>
+    <string name="hoursHint">Enter hours worked here...</string>
+    <string name="upcoming">Upcoming Jobs</string>
+</resources>
